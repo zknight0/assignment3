@@ -1,0 +1,28 @@
+img {
+    box-shadow: 2px 2px #cccccc;
+}
+
+a {
+    font-style: oblique;
+    color: yellow
+}
+
+h1 {
+    font-family: sans-serif ;
+}
+
+    
+.sans {
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+#border {
+    border: 2px solid;
+    padding: 5px;
+    background-color:#eeeeee;
+}
+
+#border li{
+    background-color:#ffced8
+}
