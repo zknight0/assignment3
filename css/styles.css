@@ -4,13 +4,27 @@ img {
 
 a {
     font-style: oblique;
-    color: yellow
+    color: yellow;
+    text-decoration: none;
 }
 
 h1 {
     font-family: sans-serif ;
 }
-    
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/dream%20studio.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+footer {
+    text-align: center
+}
+
 .sans {
     font-family: sans-serif;
     font-weight: 400;
