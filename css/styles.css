@@ -8,8 +8,19 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+    text-transform: uppercase; 
+}
+
 h1 {
     font-family: sans-serif ;
+    color: white;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex: 1;
 }
 
 body {
@@ -28,6 +39,10 @@ footer {
 .sans {
     font-family: sans-serif;
     font-weight: 400;
+}
+
+.grey {
+    color: #c9c9c9
 }
 
 #border {
